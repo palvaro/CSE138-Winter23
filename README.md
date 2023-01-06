@@ -2,14 +2,13 @@
 ## Distributed Systems
 | key | value | 
 |-----|-------|
-|When: | Monday, Wednesday and Friday at <b>1:20 PM</b>. |
-|Where: | Merrill Academic 102 |
+|When: | Monday, Wednesday and Friday at <b>2:40 PM</b>. |
+|Where: | Social Sciences 2, Room 71 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office hours: | Mondays @ 2:25 (begins at Merrill Academic 102 and ends in E2)|
-||               Fridays @ 12:30 (begins at E2 and ends at Merrill)|
-|Prerequisites: | CSE101 or CE150 required. CSE111 or CSE105 recommended. |
+|Office hours: TBD|
+|Prerequisites: | CSE130 required. |
 |Optional Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
-|TA: | Aldrin Montana and Elisabeth Oliver|
+|TA: | Mohammadamin Karbasforushan |
 |TA sections: | TBD|
 |Modules: | [Modules](modules.md)|
 |Readings (in flux): | [Readings](readings.md)|
