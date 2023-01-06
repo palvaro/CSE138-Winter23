@@ -64,7 +64,7 @@ The final project will involve implementing and managing fault-tolerant distribu
 
 The final project will be divided into four sub-projects, coming due roughly every two weeks.
 
-Project specifications will be posted on a separate page and announced on Piazza.  They will usually be posted before they are announced, but they are subject to change until announcement.  If we need to change an assigment after it was announced, we will email the class about the change.
+Project specifications will be posted on a separate page and announced on Discord.  They will usually be posted before they are announced, but they are subject to change until announcement.  If we need to change an assigment after it was announced, we will email the class about the change.
 
 Assigments announcements will always include a due date.  
 
