@@ -12,6 +12,7 @@
 |TA sections: | TBD|
 |Modules: | [Modules](modules.md)|
 |Readings (in flux): | [Readings](readings.md)|
+|Class discussion forum signup: | [Discord](https://discord.gg/c8EhdyNg)|
 
 # Description
 
