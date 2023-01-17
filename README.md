@@ -5,11 +5,12 @@
 |When: | Monday, Wednesday and Friday at <b>2:40 PM</b>. |
 |Where: | Social Sciences 2, Room 71 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office hours: TBD|
+|Office hours: Fridays @1pm (in my office), Tuesdays @2pm (on zoom)|
 |Prerequisites: | CSE130 required. |
 |Optional Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
 |TA: | Mohammadamin Karbasforushan |
-|TA sections: | TBD|
+|TA sections: | Discussion section (B), Wed 11:15-12:45, J Baskin Engineering 105e.|
+||Office Hours, Fri 13:00-14:00, J Baskin Engineering 151.|
 |Modules: | [Modules](modules.md)|
 |Readings (in flux): | [Readings](readings.md)|
 |Class discussion forum signup: | [Discord](https://discord.gg/c8EhdyNg)|
