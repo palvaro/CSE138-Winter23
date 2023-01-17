@@ -5,7 +5,8 @@
 |When: | Monday, Wednesday and Friday at <b>2:40 PM</b>. |
 |Where: | Social Sciences 2, Room 71 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office hours: Fridays @1pm (in my office), Tuesdays @2pm (on zoom)|
+|Office hours:| Fridays @1pm (in my office)|
+||Tuesdays @2pm (on zoom)|
 |Prerequisites: | CSE130 required. |
 |Optional Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
 |TA: | Mohammadamin Karbasforushan |
