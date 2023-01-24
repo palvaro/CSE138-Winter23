@@ -9,9 +9,9 @@
 ||Tuesdays @2pm (on zoom)|
 |Prerequisites: | CSE130 required. |
 |Optional Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
-|TA: | Mohammadamin Karbasforushan |
-|TA sections: | Discussion section (B), Wed 11:15-12:45, J Baskin Engineering 105e.|
-||Office Hours, Fri 13:00-14:00, J Baskin Engineering 151.|
+|TA: | [Amin Karbas](https://akarbas.github.io) |
+|TA sections: | Discussion section (B) - Wed @11:15-12:45 (J Baskin Engineering 105)|
+||Office Hours - Mon @12:00-13:00 (on Zoom)|
 |Modules: | [Modules](modules.md)|
 |Readings (in flux): | [Readings](readings.md)|
 |Class discussion forum signup: | [Discord](https://discord.gg/c8EhdyNg)|
